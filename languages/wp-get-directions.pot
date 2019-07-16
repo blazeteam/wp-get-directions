@@ -1,0 +1,90 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: BUG-EMAIL-ADDR <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: yyyy-mm-dd hh:mm+0000\n"
+"PO-Revision-Date: 2019-07-09 15:50+0\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: Eazy Po 0.9.5.3\n"
+
+#: blz-get-directions.php:41
+msgid "Settings"
+msgstr ""
+
+#: inc/options.php:30 inc/options.php:31
+msgid "Get Directions"
+msgstr ""
+
+#: inc/options.php:50
+msgid "Get Directions Settings"
+msgstr ""
+
+#: inc/options.php:77
+msgid "Your Business Location"
+msgstr ""
+
+#: inc/options.php:86
+msgid "Latitude"
+msgstr ""
+
+#: inc/options.php:95
+msgid "Longitude"
+msgstr ""
+
+#: inc/options.php:101
+msgid "Get Directions Label"
+msgstr ""
+
+#: inc/options.php:110
+msgid "Input Label"
+msgstr ""
+
+#: inc/options.php:120
+msgid "Shortcode"
+msgstr ""
+
+#: inc/options.php:152
+msgid ""
+"Enter the latitude and longitude of your business below. This is where your "
+"customers will be directed to.<br>You can find the coordinates of your "
+"chosen location <a href=\"https://www.latlong.net/convert-address-to-lat-"
+"long.html\" target=\"_blank\">here</a>."
+msgstr ""
+
+#: inc/options.php:156
+msgid "Option to have text above the Get Directions input."
+msgstr ""
+
+#: inc/options.php:160
+msgid ""
+"Use the <code>[blz_get_directions]</code> shortcode in your page, post or "
+"widget."
+msgstr ""
+
+#: inc/shortcode.php:13
+msgid ""
+"Please enter the Latitude and Longitude of your location in the <a href=\""
+msgstr ""
+
+#: inc/shortcode.php:17
+msgid "Your location"
+msgstr ""
+
+#: inc/shortcode.php:19
+msgid "Submit"
+msgstr ""
+
+#: inc/shortcode.php:20
+msgid "Use my location"
+msgstr ""
