@@ -5,3 +5,7 @@ WP Get Directions provides an input where your customers can enter any location 
 Simply set up the plugin by entering your location Latitude and Longitude coordinates, then insert the [wp_get_directions] shortcode into your page, post or widget.
 
 https://wordpress.org/plugins/wp-get-directions/
+
+![image](https://ps.w.org/wp-get-directions/assets/screenshot-1.jpg?rev=2120546)
+
+![image](https://ps.w.org/wp-get-directions/assets/screenshot-2.jpg?rev=2121386)
